@@ -1,0 +1,12 @@
+langchain
+fastapi
+uvicorn
+gradio
+langchain-community
+transformers
+torch
+sentence-transformers
+faiss-cpu
+PyPDF2
+huggingface_hub
+rank_bm25
